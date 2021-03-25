@@ -1,6 +1,6 @@
 ### Hi there 👋
-<div>
-  <img src="">
+<div align="center">
+  <img src="/pictures/72462667_10157328285715041_3563924159543115776_n.jpg">
 </div
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fabo893&count_private=true&theme=tokyonight&showicons=true)]()
