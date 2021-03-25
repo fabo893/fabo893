@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<body background-color="black">
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fabo893&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fabo893&langs_count=5&theme=tokyonight)]()
 
@@ -18,7 +17,6 @@
 <a href="https://www.facebook.com/fabo107" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 </div>
-</body>
 
 <!--
 **fabo893/fabo893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
