@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+  <h1 style="font-color: blue, font-size: 40px"><em>Jose Fabian</em></h1>
+</div>
+
 <div align="center">
   <img src="/pictures/72462667_10157328285715041_3563924159543115776_n.jpg">
 </div
