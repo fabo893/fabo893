@@ -8,7 +8,7 @@
 ```javascript
 const fabo = {
   pronouns: "He" | "Him",
-  code: [C, Python, Javascript, HTML, CSS, Ruby, MySQL],
+  code: [C, Shell, Python, Javascript, HTML, CSS, Ruby, MySQL],
   tools: [NodeJS, Docker, Emacs, Vim],
   Ask me about: [Programming, Percussion, Clasical Music, Jazz Music, Steel Drums, Puerto Rico]
 }
