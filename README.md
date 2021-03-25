@@ -1,4 +1,9 @@
-![Header](/pictures/72462667_10157328285715041_3563924159543115776_n.jpg)
+
+<div align="center">
+  <h1 style="font-size: 40px"><em>Hi, I'm Jose Fabian</em></h1>
+  <img src="/pictures/72462667_10157328285715041_3563924159543115776_n.jpg">
+</div>
+
 
 ```javascript
 const fabo = {
@@ -8,11 +13,6 @@ const fabo = {
   Ask me about: [Programming, Percussion, Clasical Music, Jazz Music, Steel Drums, Puerto Rico]
 }
 ```
-
-
-<div align="center">
-  <h1 style="font-color: blue, font-size: 40px"><em>Jose Fabian</em></h1>
-</div>
  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fabo893&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fabo893&langs_count=5&theme=tokyonight)]()
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on .
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
