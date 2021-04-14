@@ -10,7 +10,7 @@ const fabo = {
   pronouns: "He" | "Him",
   technical_skills = {
       code: [C, Bash, Python, Javascript(Node/JQuery), HTML/CSS, Ruby, SQL],
-      technologies/environment: [Linux, Ubuntu, Visual Studio, Windows, Git, GitHub, MySQL],
+      technologies_Environment: [Linux, Ubuntu, Visual Studio, Windows, Git, GitHub, MySQL],
       systems_administration: [NginX, HAProxy, Puppet, Fabric]
   },
   Ask_me_about: [Programming, Percussion, Clasical Music, Jazz Music, Steel Drums, Puerto Rico]
