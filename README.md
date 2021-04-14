@@ -19,7 +19,7 @@ const fabo = {
  
 
 <a><img height="165px" align="center" src="https://github-readme-stats.vercel.app/api/?username=fabo893&count_private=true&theme=tokyonight&showicons=true"></a>
-<a><img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabo893&langs_count=5&theme=tokyonight"></a>
+<a><img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabo893&layout=compact&hide=perl&theme=chartreuse-dark"></a>
 
 
 <div align="center">
