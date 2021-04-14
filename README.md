@@ -17,8 +17,9 @@ const fabo = {
 };
 ```
  
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fabo893&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fabo893&langs_count=5&theme=tokyonight)]()
+
+<a><img height="165px" align="center" src="https://github-readme-stats.vercel.app/api/?username=fabo893&count_private=true&theme=tokyonight&showicons=true"></a>
+<a><img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabo893&langs_count=5&theme=tokyonight"></a>
 
 
 <div align="center">
