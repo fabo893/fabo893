@@ -13,7 +13,7 @@ const fabo = {
       technologies_Environment: [Linux, Ubuntu, Visual Studio, Windows, Git, GitHub, MySQL],
       systems_administration: [NginX, HAProxy, Puppet, Fabric]
   },
-  Ask_me_about: [Programming, Percussion, Clasical Music, Jazz Music, Steel Drums, Puerto Rico]
+  ask_me_about: [Programming, Percussion, Clasical Music, Jazz Music, Steel Drums, Puerto Rico]
 };
 ```
  
