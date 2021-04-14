@@ -8,10 +8,13 @@
 ```javascript
 const fabo = {
   pronouns: "He" | "Him",
-  code: [C, Shell, Python, Javascript, HTML, CSS, Ruby, MySQL],
-  tools: [NodeJS, Docker, Emacs, Vim],
+  technical_skills = {
+      code: [C, Bash, Python, Javascript(Node/JQuery), HTML/CSS, Ruby, SQL],
+      technologies/environment: [Linux, Ubuntu, Visual Studio, Windows, Git, GitHub, MySQL],
+      systems_administration: [NginX, HAProxy, Puppet, Fabric]
+  },
   Ask me about: [Programming, Percussion, Clasical Music, Jazz Music, Steel Drums, Puerto Rico]
-}
+};
 ```
  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fabo893&count_private=true&theme=tokyonight&showicons=true)]()
